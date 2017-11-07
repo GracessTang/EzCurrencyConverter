@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EzCurrencyConverter</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="todo">TODO</string>
+    <string name="enter">ENTER</string>
+    <string name="buttonEnter">enter</string>
+
+</resources>
